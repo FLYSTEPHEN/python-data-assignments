@@ -22,7 +22,7 @@ To address following questions, you can choose to simply discuss the solution in
 - [ ] Can you further organise your code for future reuse? One example of reusable piece is the keyword extraction from one string. Another example is the keyword extraction from one file. You can consider to put those in functions.
 - [ ] There are two ways to approach the above problem: 1) assemble the content of all 5 files and extract keyword list for one string; 2) extract keyword-frequency list for all 5 files first and then merge the keyword-frequency (may need to sum the count for the same keyword). Which did you use? Which way is better? And Why?
 
-###further plans
+### further plans
 - [ ] I must write something in readme
 - [ ] learn visualisation to make data organised
 - [ ] I can try text analysis
