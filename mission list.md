@@ -26,3 +26,4 @@ To address following questions, you can choose to simply discuss the solution in
 - [ ] I must write something in readme
 - [ ] learn visualisation to make data organised
 - [ ] I can try text analysis
+- [ ] learn how to use 'try' in case some input problems
