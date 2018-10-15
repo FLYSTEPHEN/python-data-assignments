@@ -25,3 +25,4 @@ To address following questions, you can choose to simply discuss the solution in
 ###further plans
 - [ ] I must write something in readme
 - [ ] learn visualisation to make data organised
+- [ ] I can try text analysis
