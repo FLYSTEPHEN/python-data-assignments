@@ -64,3 +64,8 @@
 
 - [x] There are two ways to approach the above problem: 1) assemble the content of all 5 files and extract keyword list for one string; 2) extract keyword-frequency list for all 5 files first and then merge the keyword-frequency (may need to sum the count for the same keyword). Which did you use? Which way is better? And Why?
   - I think the first one is better since we can use the unmerged data to do further analysis.
+
+### Future
+- [ ] I can try text analysis
+- [ ] learn how to use 'try' in case some input problems
+- [ ] use class
