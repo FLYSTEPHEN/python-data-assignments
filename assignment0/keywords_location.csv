@@ -1,6 +1,6 @@
-keyword:trump,paragraphs
-trade-wars-news1.txt,[]
-trade-wars-news2.txt,"[15, 25]"
-trade-wars-news3.txt,"[0, 3, 4, 8, 11, 14, 16, 17, 18, 20, 21, 32, 33, 35]"
-trade-wars-news4.txt,"[3, 4, 9, 10, 18, 19, 20, 24, 27]"
-trade-wars-news5.txt,"[2, 14, 15, 17, 18, 19, 20, 21, 22]"
+keyword:trade,paragraphs
+trade-wars-news1.txt,"[0, 2, 3, 5, 7, 8, 12, 16, 19, 24, 25, 26, 27]"
+trade-wars-news2.txt,"[0, 4, 6, 11, 13, 14, 18, 22, 23, 25]"
+trade-wars-news3.txt,"[0, 4, 6, 8, 9, 11, 14, 15, 22, 23, 25, 27, 30, 31, 34, 37]"
+trade-wars-news4.txt,"[3, 4, 18, 26, 27]"
+trade-wars-news5.txt,"[5, 6, 8, 16, 18]"
