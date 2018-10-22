@@ -68,7 +68,7 @@ def rank_frequency(dict): #根據frequency排序，也可以最後用print(s.sor
     #再將字典重新整合起來
     return dict_frequency_rank
 
-def write_cvs(dict):
+def write_cvs_1(dict):
     with open('keywords_frequency.csv','w',newline='') as f:
         writer = csv.writer(f,delimiter=',')
         header = ['keyword','frequency']
@@ -88,22 +88,11 @@ for i in list_txt: #依次讀取
     update_dict(dict_accumulate_frequency,dict_text_frequency[i]) #累計到dict_accumulate_frequency
 dict_frequency_rank = rank_frequency(dict_accumulate_frequency) #排序
 
-write_cvs(dict_frequency_rank)
+write_cvs_1(dict_frequency_rank)
 
 df = pd.read_csv('keywords_frequency.csv').head(15)
 print(df)
 
-
-def list_documents(path): #將待處理的文件以list輸出
-    list_txt = []
-    list_file = os.listdir(path) #讀取目錄下所有文件的路徑
-    list_file.remove('stopword.txt')
-    for i in list_file:
-        if i.find('.txt') != -1: #如果文件是.txt文件
-            list_txt.append(i)
-    list_txt.sort()
-    n = len(list_txt)
-    return list_txt, n #n是文件數量
 
 def locate_word(word,text):
     list_paragraphs_contain_word = []
@@ -115,7 +104,7 @@ def locate_word(word,text):
             list_paragraphs_contain_word.append(i) #把這個段落的序號加入list
     return list_paragraphs_contain_word
 
-def write_cvs(word,dict):
+def write_cvs_2(word,dict):
     with open('keywords_location.csv','w',newline='') as f:
         writer = csv.writer(f,delimiter=',')
         title = 'keyword:'+str(word)
@@ -131,7 +120,7 @@ for i in list_txt:
     with open(i,'r') as t:
         text = t.read()
     dict_words_location[i] = locate_word(word,text)
-write_cvs(word,dict_words_location)
+write_cvs_2(word,dict_words_location)
 df=pd.read_csv('keywords_location.csv')
 print(df)
 
