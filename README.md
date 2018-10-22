@@ -1,2 +1,29 @@
 # python-data-assignments
-mission accomplished， I will write readme later.
+## Assignment 0 -- Bridging assignment for language efficiency
+- [x] Read all the `.txt` files in folder `assignment0/`.
+  - Use `os.listdir` function to read all the file path firstly. Then it will be easy to use `str.find(.txt)` to locate all the txt files. Remember to remove stoplist.txt
+- [x] For every file, extract the English words from the file content. 
+  - Just use `.split()` function to transfer the text into a list of words.
+- [x] For every word extracted above, count how many times each one appears. 
+  ```bash
+  for m in list:
+      dict_words_frequency[m]=list.count(m)
+  ```
+  - Use the lines above to solve this question.
+- [x] Rank the keywords from higher frequency to lower frequency.
+  - 
+- [x] Output the full keyword frequency list into a CSV file. The table headers are `keyword,frequency`. (consider to use `csv`)
+
+- [x]Only `print` the top 15 keywords on Terminal.
+
+### Bonus: Handle the stop words
+- [x] Can you remove the stop words from above Terminal output, as well as the CSV file?
+- [x] Can you further enrich this `stop_words` list to make the output more meaningful?
+
+### Bonus: Discussion or demo
+
+To address following questions, you can choose to simply discuss the solution in your `README.md` file or give a working demo using codes:
+
+- [x] If you spotted one interesting keyword from the top list, how do you locate this keyword in articles? i.e. Find which article and which paragraph contains the keyword.
+- [ ] Can you further organise your code for future reuse? One example of reusable piece is the keyword extraction from one string. Another example is the keyword extraction from one file. You can consider to put those in functions.
+- [x] There are two ways to approach the above problem: 1) assemble the content of all 5 files and extract keyword list for one string; 2) extract keyword-frequency list for all 5 files first and then merge the keyword-frequency (may need to sum the count for the same keyword). Which did you use? Which way is better? And Why?
