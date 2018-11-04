@@ -44,14 +44,14 @@
 - [x] Only `print` the top 15 keywords on Terminal.
   - use `.head(15)`
   
-## Bonus: Handle the stop words
+### Bonus: Handle the stop words
 - [x] Can you remove the stop words from above Terminal output, as well as the CSV file?
   - I wrote a txt file containing the stopwords I defined. Then I can read the txt and use this line: `if m not in list_stop_words` with a for loop to check if the words being counted in the stopwords list. 
   
 - [x] Can you further enrich this `stop_words` list to make the output more meaningful?
   - Enriching the list is easy since it is in a form of txt file that we just need to add some common prep. or num. or pron. into the file. The question is although a stoplist of words has been created, it is still difficult to expel some punctuations, Capitals, and words with 's. I defined a function to address this problem, where I used str.translator, str.lower and str.replace("’s","").
   
-## Bonus: Discussion or demo
+### Bonus: Discussion or demo
 
 - [x] To address following questions, you can choose to simply discuss the solution in your `README.md` file or give a working demo using codes:
 
@@ -63,7 +63,7 @@
 - [x] There are two ways to approach the above problem: 1) assemble the content of all 5 files and extract keyword list for one string; 2) extract keyword-frequency list for all 5 files first and then merge the keyword-frequency (may need to sum the count for the same keyword). Which did you use? Which way is better? And Why?
   - I think the first one is better since we can use the unmerged data to do further analysis.
 
-## Future
+## Future issues
 - [ ] I can try text analysis
 - [ ] learn how to use 'try' in case some input problems
 - [ ] use class
