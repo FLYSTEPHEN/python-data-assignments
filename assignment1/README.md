@@ -11,7 +11,7 @@
   - ```github adress``` - String. e.g. ```http://github.com/myersjustinc```
   - ```github contributions``` - Float. e.g. ```1.0,0.0,12.0,3.0...```
   - The result is in [Result.csv](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/Result.csv)
-  - The codes is in [scrape-data-journalist-directory-and-output-github-contributions.ipynb](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory.ipynb)
+  - The codes is in [scrape-data-journalist-directory-and-output-github-contributions.ipynb](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory-and-output-github-contributions.ipynb)
 ### Data volume
   - 3967 rows × 81 columns
   - 217 data journalists's information, including their names, institutions, cities, github adress and everyday github contributions(only 81 have a github account) from 2008. 
@@ -23,7 +23,7 @@ Deadline: **Nov 9, 2018 (Fri)**
 - Scraping static website (requests + beautiful soup)
 - Scraping a dynamic website (selenium/ splinter)
 ### Requirement:
-- [x] The dataset needs to contain more than **100** entries and more than **5** fields.
+- [x] The dataset needs to contain mordirectory.ipynbe than **100** entries and more than **5** fields.
 - [x] In the `README.md` file, give information about your dataset, so people can quickly understand the content without looking into your CSV file. You can include those sections: 1) topic ; 2) data source; 3) data fields (type, sample data); 4) data volume; 5) **license**.
 ### Bonus: Enrich your dataset
 enrich your dataset:
