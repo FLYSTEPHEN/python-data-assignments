@@ -9,7 +9,7 @@
   - ```github adress``` - String. e.g. ```http://github.com/myersjustinc```
   - ```github contributions``` - float. e.g. ```1.0,0.0,12.0,3.0...```
   - The result is in [Result.csv](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/Result.csv)
-  - The codes is in [scrape-data-journalist-directory.ipynb](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory.ipynb)
+  - The codes is in [scrape-data-journalist-directory-and-output-github-contributions.ipynb](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory.ipynb)
 ## Data volume
   - 3967 rows × 81 columns
   - 217 data journalists's information, including their names, institutions, cities, github adress and everyday github contributions(only 81 have a github account) from 2008. 
