@@ -74,15 +74,15 @@
 
 Deadline: **Nov 9, 2018 (Fri)**
 
-Collect your **original** data by one of the following two ways:
+- [x]Collect your **original** data by one of the following two ways:
 
 - Scraping static website (requests + beautiful soup)
 - Scraping a dynamic website (selenium/ splinter)
 
 Requirement:
 
-- The dataset needs to contain more than **100** entries and more than **5** fields.
-- In the `README.md` file, give information about your dataset, so people can quickly understand the content without looking into your CSV file. You can include those sections: 1) topic ; 2) data source; 3) data fields (type, sample data); 4) data volume; 5) **license**. Here is a [sample](https://github.com/marla322/hkbu-big-data-media/tree/master/HW2).
+- [x] The dataset needs to contain more than **100** entries and more than **5** fields.
+- [x]In the `README.md` file, give information about your dataset, so people can quickly understand the content without looking into your CSV file. You can include those sections: 1) topic ; 2) data source; 3) data fields (type, sample data); 4) data volume; 5) **license**. Here is a [sample](https://github.com/marla322/hkbu-big-data-media/tree/master/HW2).
 
 Note:
 
