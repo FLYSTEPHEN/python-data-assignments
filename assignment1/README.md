@@ -18,4 +18,4 @@
 ## Future issues
   - The codes for scraping journalists' twitter accounts, pgps, emails and websites have been written but not operated since there is no needs at this stage
   - We can also get their twitter easily, then we could scrape their twitts.
-  - We can analyze the pattern of their contributions by time. we can also do the analysis by geography ， since we have collect their cities.
+  - We can analyze the pattern of their contributions by time. we can also do the analysis by geography, since we have collect their cities.
