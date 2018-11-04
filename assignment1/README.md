@@ -7,7 +7,7 @@
   - ```institution``` - String. e.g. ```The Associated Press```
   - ```city``` - String. e.g. ```United States, Brooklyn (US-VA)```
   - ```github adress``` - String. e.g. ```http://github.com/myersjustinc```
-  - ```github contributions``` - float. e.g. ```1.0,0.0,12.0,3.0...```
+  - ```github contributions``` - Float. e.g. ```1.0,0.0,12.0,3.0...```
   - The result is in [Result.csv](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/Result.csv)
   - The codes is in [scrape-data-journalist-directory-and-output-github-contributions.ipynb](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory.ipynb)
 ## Data volume
