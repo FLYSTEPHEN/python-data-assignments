@@ -1,6 +1,6 @@
 # Assignment 0 -- Bridging assignment for language efficiency
 ## Indroduction
-  - I finish this assignment with this functions os.listdir,pandas,csv,string.punctuation. The keywords_frequency.ipynb is the mainstream and the keywords_location.ipynb is to locate a keyword. You can check the codes and outputs in the hyperlinks below.
+  - I finish this assignment with this functions os.listdir, pandas, csv, string.punctuation. The keywords_frequency.ipynb is the mainstream and the keywords_location.ipynb is to locate a keyword. You can check the codes and outputs in the hyperlinks below.
 
 - The integrated codes
   - [keywords.py](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment0/keywords.py)
