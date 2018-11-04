@@ -12,7 +12,7 @@
   - [keywords_location.csv](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment0/keywords_location.csv)
 
 
-## Mission List
+## Mission list
 - [x] Read all the `.txt` files in folder `assignment0/`.
   - Use `os.listdir` function to read all the file path firstly. Then it will be easy to use `str.find(.txt)` to locate all the txt files. Remember to remove `stoplist.txt`
   
