@@ -1,7 +1,5 @@
-# python-data-assignments
-## Assignment 0 -- Bridging assignment for language efficiency
-
-### Indroduction
+# Assignment 0 -- Bridging assignment for language efficiency
+## Indroduction
   - I finish this assignment with this functions os.listdir,pandas,csv,string.punctuation. The keywords_frequency.ipynb is the mainstream and the keywords_location.ipynb is to locate a keyword. You can check the codes and outputs in the hyperlinks below.
 
 - The integrated codes
@@ -14,7 +12,7 @@
   - [keywords_location.csv](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment0/keywords_location.csv)
 
 
-### Mission List
+## Mission List
 - [x] Read all the `.txt` files in folder `assignment0/`.
   - Use `os.listdir` function to read all the file path firstly. Then it will be easy to use `str.find(.txt)` to locate all the txt files. Remember to remove `stoplist.txt`
   
@@ -46,14 +44,14 @@
 - [x] Only `print` the top 15 keywords on Terminal.
   - use `.head(15)`
   
-### Bonus: Handle the stop words
+## Bonus: Handle the stop words
 - [x] Can you remove the stop words from above Terminal output, as well as the CSV file?
   - I wrote a txt file containing the stopwords I defined. Then I can read the txt and use this line: `if m not in list_stop_words` with a for loop to check if the words being counted in the stopwords list. 
   
 - [x] Can you further enrich this `stop_words` list to make the output more meaningful?
   - Enriching the list is easy since it is in a form of txt file that we just need to add some common prep. or num. or pron. into the file. The question is although a stoplist of words has been created, it is still difficult to expel some punctuations, Capitals, and words with 's. I defined a function to address this problem, where I used str.translator, str.lower and str.replace("’s","").
   
-### Bonus: Discussion or demo
+## Bonus: Discussion or demo
 
 - [x] To address following questions, you can choose to simply discuss the solution in your `README.md` file or give a working demo using codes:
 
@@ -65,7 +63,7 @@
 - [x] There are two ways to approach the above problem: 1) assemble the content of all 5 files and extract keyword list for one string; 2) extract keyword-frequency list for all 5 files first and then merge the keyword-frequency (may need to sum the count for the same keyword). Which did you use? Which way is better? And Why?
   - I think the first one is better since we can use the unmerged data to do further analysis.
 
-### Future
+## Future
 - [ ] I can try text analysis
 - [ ] learn how to use 'try' in case some input problems
 - [ ] use class
