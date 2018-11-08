@@ -13,7 +13,7 @@
   - The result is in [Result.csv](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/Result.csv)
   - The codes is in [scrape-data-journalist-directory-and-output-github-contributions.ipynb](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory-and-output-github-contributions.ipynb)
 ### Data volume
-  - 3967 rows × 81 columns
+  - 217 rows × 4 columns + 3967 rows × 81 columns
   - 217 data journalists's information, including their names, institutions, cities, github adress 
   - Github contributions on an everyday level from 2008 of 81 data journalists who have a github account
 ### License
