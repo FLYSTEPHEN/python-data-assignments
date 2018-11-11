@@ -18,6 +18,13 @@
   - Github contributions on an everyday level from 2008 of 81 data journalists who have a github account
 ### License
   - CC 4.0
+### obstacles and solutions
+  - [x] from http://jplusplus.github.io/global-directory/ we cannot use ```requests``` to get its script directly so we used the dynamic way. Afterwards we come back to the static way since there is no need to change pages during scraping and it is much quicker than dynamic.
+### Future issues
+  - [ ] We can analyze the pattern of their contributions by time. 
+  - [ ]we can also do the analysis by geography, since we have collect their cities. We can use geo API to solve it.
+
+
 ## Mission list
 Deadline: **Nov 9, 2018 (Fri)**
 - [x] Collect your **original** data by one of the following two ways:
@@ -30,7 +37,3 @@ Deadline: **Nov 9, 2018 (Fri)**
 enrich your dataset:
 - [ ] You can download data set from [gov open data portals](https://data.gov.hk/en/), [research institutes](https://ourworldindata.org/), or [any collection](https://github.com/awesomedata/awesome-public-datasets) that you can verify. You don't have to actually download the data in this bonus question, because some dataset is too large to be put onto GitHub repo. Simply give pointers to the database you are considering and briefly describe how they can be incorporated into the dataset you just scraped or how they can assist your articulation.
 - [ ] You can get some related data via [HTTP based API](https://earthquake.usgs.gov/fdsnws/event/1/). Please tell us what is the API, give a few (truncated) sample responses, and discuss how that data can potentially help your data-driven report.
-## Future issues
-- [ ] The codes for scraping journalists' twitter accounts, pgps, emails and websites have been written but not operated since there is no needs at this stage
-- [ ] We can also get their twitter easily, then we could scrape their twitts.
-- [ ] We can analyze the pattern of their contributions by time. we can also do the analysis by geography, since we have collect their cities.
