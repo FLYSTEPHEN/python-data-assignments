@@ -22,7 +22,7 @@
   - [x] from http://jplusplus.github.io/global-directory/ we cannot use ```requests``` to get its script directly so we used the dynamic way. Afterwards we come back to the static way since there is no need to change pages during scraping and it is much quicker than dynamic.
 ### Future issues
   - [ ] We can analyze the pattern of their contributions by time. 
-  - [ ]we can also do the analysis by geography, since we have collect their cities. We can use geo API to solve it.
+  - [ ] we can also do the analysis by geography, since we have collect their cities. We can use geo API to solve it.
 
 
 ## Mission list
