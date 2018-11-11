@@ -10,7 +10,7 @@
   - Topic
     - The data journalists' information and their contributions on Github from 2008 to 2018
   - The codes
-    - [scrape-data-journalist-directory-and-output-github-contributions.ipynb]((https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory-and-output-github-contributions.ipynb))
+    - [scrape-data-journalist-directory-and-output-github-contributions.ipynb](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory-and-output-github-contributions.ipynb)
   - The result
     - [Result.csv](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/Result.csv)
   - For more details
