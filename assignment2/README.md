@@ -1,14 +1,13 @@
 # Assignment 2 -- Data analysis, visualisation and presentation
-Please read the report notebook [here](https://nbviewer.jupyter.org/github/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/assignment2.ipynb).
+For the past 10 years, the working condition of the data journalists has changed a lot. From its foundation in 2008, the Github has also become a multifunctional platform for both programmers and data journalists. This report shows the global data journalists' distribution and their Github contributions change from 2008 to 2018. It is a case study souced from [the Global Data Journalist Directory](http://jplusplus.github.io/global-directory/).
+- Please read the report notebook [here](https://nbviewer.jupyter.org/github/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/assignment2.ipynb).
 
 ## Basic requirements:
 
-- The analysis and visualisation is based on the dataset from Assignment 1. You can enrich it if needed.
-- Find 3 story points from data, and present it with data.
-- Use at least 2 types of charts.
-- Notebook needs to be legible:
-  - Put trial & error codes aside
-  - Adjust/ truncate/ omit long output
-- Notebook should be able to execute by the readers and get the same results.
-- All auxiliary files need to be stored in the assignment folder, including data, image, codes, ...
-- **Important** The `.ipynb` notebook file should be self-explainary. Make sure you can use https://nbviewer.jupyter.org to view it.
+- [x] The analysis and visualisation is based on the dataset from Assignment 1. You can enrich it if needed.
+- [x] Find 3 story points from data, and present it with data.
+- [x] Use at least 2 types of charts.
+- [x] Notebook needs to be legible
+- [x] Notebook should be able to execute by the readers and get the same results.
+- [x] All auxiliary files need to be stored in the assignment folder, including data, image, codes, ...
+- [x] The `.ipynb` notebook file should be self-explainary. Make sure you can use https://nbviewer.jupyter.org to view it.
