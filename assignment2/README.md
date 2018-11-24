@@ -1,5 +1,5 @@
 # Assignment 2 -- Data analysis, visualisation and presentation
-[here](https://nbviewer.jupyter.org/github/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/assignment2.ipynb)
+Please read the report notebook [here](https://nbviewer.jupyter.org/github/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/assignment2.ipynb).
 
 ## Basic requirements:
 
