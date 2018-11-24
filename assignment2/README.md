@@ -1,5 +1,5 @@
 # Assignment 2 -- Data analysis, visualisation and presentation
-For the past 10 years, the working condition of the data journalists has changed a lot. From its foundation in 2008, the Github has also become a multifunctional platform for both programmers and data journalists. This report shows the global data journalists' distribution and their Github contributions change from 2008 to 2018. It is a case study souced from [the Global Data Journalist Directory](http://jplusplus.github.io/global-directory/).
+In the past 10 years, the working condition of the data journalists has changed a lot. At the same time, the Github has also become a multifunctional platform for both programmers and data journalists from its foundation in 2008. This report shows that the global data journalists' distribution and their Github contributions change from 2008 to 2018. It is a case study souced from [the Global Data Journalist Directory](http://jplusplus.github.io/global-directory/).
 - Please read the report notebook [here](https://nbviewer.jupyter.org/github/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/assignment2.ipynb).
 
 ## Basic requirements:
