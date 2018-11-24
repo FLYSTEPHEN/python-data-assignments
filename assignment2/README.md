@@ -1,5 +1,5 @@
 # Assignment 2 -- Data analysis, visualisation and presentation
-
+[here](https://nbviewer.jupyter.org/github/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/assignment2.ipynb)
 Deadline: **Nov 24, 2018 (Sat)**
 
 The core objective of this assignment is to make a **reproducible** and **data-driven** report in jupyter notebook, with pandas, matplotlib, seaborn, networkx, nltk, ...
