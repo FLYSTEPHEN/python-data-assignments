@@ -1,10 +1,7 @@
 # Assignment 2 -- Data analysis, visualisation and presentation
 [here](https://nbviewer.jupyter.org/github/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/assignment2.ipynb)
-Deadline: **Nov 24, 2018 (Sat)**
 
-The core objective of this assignment is to make a **reproducible** and **data-driven** report in jupyter notebook, with pandas, matplotlib, seaborn, networkx, nltk, ...
-
-Basic requirements:
+## Basic requirements:
 
 - The analysis and visualisation is based on the dataset from Assignment 1. You can enrich it if needed.
 - Find 3 story points from data, and present it with data.
