@@ -15,3 +15,8 @@
     - [Result.csv](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/Result.csv)
   - For more details
     - [README.md](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/README.md)
+ ## Assignment 2 -- Data analysis, visualisation and presentation
+  - Theme
+    - The global data journalists and their Github contributions: a case study from the Global Data Journalist Directory
+  - The Jupyter Notebook
+    - **Please read the report notebook [here](https://nbviewer.jupyter.org/github/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/assignment2.ipynb).**
