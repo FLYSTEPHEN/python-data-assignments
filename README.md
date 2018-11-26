@@ -19,4 +19,6 @@
   - Theme
     - The global data journalists and their Github contributions: a case study from the Global Data Journalist Directory
   - The Jupyter Notebook
-    - **Please read the report notebook [here](https://nbviewer.jupyter.org/github/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/assignment2.ipynb).**
+    - **Please read the report notebook [here](https://nbviewer.jupyter.org/github/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/jupyter-notebook.ipynb).**
+  - For more details
+    - [README.md](https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment2/README.md)
